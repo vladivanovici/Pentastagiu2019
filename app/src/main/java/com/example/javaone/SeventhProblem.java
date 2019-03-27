@@ -24,6 +24,6 @@ public class SeventhProblem
                 isOnClump = false;
             previousElement = i;
         }
-        System.out.println("Number of clumps found: " + clumpsCount);
+        System.out.println("Number of clumps that have been found: " + clumpsCount);
     }
 }
